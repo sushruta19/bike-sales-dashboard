@@ -1,0 +1,4 @@
+# Excel Temp files
+~$*.xlsx
+~$*.xls
+~$*.xls*
